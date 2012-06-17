@@ -51,7 +51,7 @@ he:
         other: "%{count} %{plural_model} נמחק בהצלחה"
       selection_toggle_explanation: "(שינוי בחירה)"
       link: "צור"
-      action_label: "%{title} נבחר"
+      action_label: "%{title} רשומות שנבחרו"
       labels:
         destroy: "מחק"
     comments:
